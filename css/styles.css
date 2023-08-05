@@ -40,7 +40,7 @@ a:focus {
 .dark-bg {
   background-color: #2e2f42;
 }
-.h1-name {
+.h-one-name {
   font-size: 56px;
   line-height: 1.07;
   text-align: center;
@@ -61,14 +61,14 @@ button:hover,
 button:focus {
   background-color: #404bbf;
 }
-.h3-name {
+.h-trio-name {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-.h3-name-p {
+.h-trio-name-p {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -77,7 +77,7 @@ button:focus {
 .our-team-section {
   background-color: #f4f4fd;
 }
-.h2-our {
+.h-two-our {
   font-size: 36px;
   line-height: 1.11;
   text-align: center;
@@ -88,7 +88,7 @@ button:focus {
 .li-our {
   background-color: #ffffff;
 }
-.h3-our {
+.h-trio-our {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -101,7 +101,7 @@ button:focus {
   letter-spacing: 0.02em;
   color: #434455;
 }
-.h2-portfolio {
+.h-two-portfolio {
   font-size: 36px;
   line-height: 1.11;
   text-align: center;
@@ -109,14 +109,14 @@ button:focus {
   text-transform: capitalize;
   color: #2e2f42;
 }
-.h3-portfolio {
+.h-trio-portfolio {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-.h3-par {
+.h-trio-par {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
