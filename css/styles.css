@@ -12,8 +12,11 @@ body {
   text-transform: uppercase;
   color: #4d5ae5;
 }
-span {
+.span-header {
   color: #2e2f42;
+}
+.span-footer {
+  color: #f4f4fd;
 }
 .navigation {
   font-weight: 500;
